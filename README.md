@@ -1,16 +1,16 @@
 # SFP Programming
----
+
 This repository holds scripts that can be used for reading and writing data to and from SFP modules.
 
 They've been tested to work on a **Raspberry Pi Zero W**, others might work but are untested (feedback is appreciated).
 
 
 # Contributing
----
+
 Look at the planned additions. Working on any of them is a great start. Currently no code quality standard is set, so trash is most likely to be accepted. Please mark additions with **[ADD]** and dumps with **[DUMP]**. 
 
 # Planned additions
----
+
 | State        | Function                        |
 |------------- | ------------------------------- |
 |✅            | Basic reading and writing       |
@@ -23,7 +23,7 @@ Look at the planned additions. Working on any of them is a great start. Currentl
 |❌            | Wiki about modules and mods     |
 
 # Contributing Dumps
----
+
 Dumps are always welcome, even if you just find a random module in the trash.
 Dumps should look something like this:
 ```bash
