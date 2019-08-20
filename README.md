@@ -7,7 +7,7 @@ They've been tested to work on a **Raspberry Pi Zero W**, others might work but 
 
 # Contributing
 ---
-Look at the planned additions. Working on any of them is a great start. Currently no code quality standard is set, so trash is most likely to be accepted. Please mark additions with **[ADD]**. 
+Look at the planned additions. Working on any of them is a great start. Currently no code quality standard is set, so trash is most likely to be accepted. Please mark additions with **[ADD]** and dumps with **[DUMP]**. 
 
 # Planned additions
 ---
