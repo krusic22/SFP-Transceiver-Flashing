@@ -1,0 +1,18 @@
+No size specified (using byte-data access)
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f    0123456789abcdef
+00: 03 04 00 00 00 00 08 00 00 00 00 01 0d 00 00 00    ??....?....??...
+10: 00 00 64 00 4d 65 74 68 6f 64 65 20 45 6c 65 63    ..d.Methode Elec
+20: 2e 20 20 20 01 00 17 05 53 50 37 30 34 31 2d 49    .   ?.??SP7041-I
+30: 53 53 20 20 20 20 20 20 2d 20 20 20 41 0c c1 71    SS      -   A??q
+40: 00 12 00 00 33 55 53 35 31 38 34 30 32 38 20 20    .?..3US5184028
+50: 20 20 20 20 31 35 30 35 30 38 30 31 00 00 00 ad        15050801...?
+60: ff ff 00 d0 00 81 45 01 34 35 33 31 35 36 2d 30    ...?.?E?453156-0
+70: 30 31 20 20 20 20 ff ff 53 32 7f de 12 cc ec 62    01    ..S2?????b
+80: ff 48 50 20 50 72 6f 70 72 69 65 74 61 72 79 20    .HP Proprietary
+90: 54 65 63 68 6e 6f 6c 6f 67 79 20 2d 20 55 73 65    Technology - Use
+a0: 20 69 6d 70 6c 69 65 73 20 61 63 63 65 70 74 61     implies accepta
+b0: 6e 63 65 20 6f 66 20 6c 69 63 65 6e 73 69 6e 67    nce of licensing
+c0: 20 74 65 72 6d 73 ff ff ff ff ff ff ff ff ff ff     terms..........
+d0: 48 50 31 30 30 30 42 2d 54 20 20 20 ff ff ff ff    HP1000B-T   ....
+e0: ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff    ................
+f0: ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff    ................
