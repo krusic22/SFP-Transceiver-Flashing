@@ -44,7 +44,7 @@ On HP ProCurve you can use the **debug mode** to dump and write data to modules 
 
 **You said that we can write data using ProCurve switches, how?**
 
-Enter the debug mode as described above. Make sure to backup the module and that the switch isn't doing anything important as it could crash. Personal recommendation is also to use SSH instead of the Console port then doing this, as some characters can crash or disrupt the serial device. Do **NO MORE** then 10 commands at the time, as any addition commands might get lost due to how the switch software works.
+Enter the debug mode as described above. Make sure to backup the module and that the switch isn't doing anything important as it could crash. Personal recommendation is also to use SSH instead of the Console port then doing this, as some characters can crash or disrupt the serial device. Do **NO MORE** then 10 commands at the time, as any additional commands might get lost due to how the switch software works.
 Example: 
 ```
 <command> <port> <location> <table> <data>
